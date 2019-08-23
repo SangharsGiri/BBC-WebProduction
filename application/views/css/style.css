@@ -1,0 +1,79 @@
+.post {
+	
+    border: 1px;
+    padding: 10px;
+    margin-top: 30px;
+    vertical-align: bottom;
+    background-color: rgba(255,255,255,.8);
+    border-radius: 2px;
+    transition: all .2s ease-in-out;
+    font-size: 16px;
+    font-family: Roboto,sans-serif;
+}
+.post:hover{
+box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 2px rgba(0,0,0,.24);
+}
+a {
+    color: #554f4f !important;
+}
+ul.load-responsive a {
+    color: #fff !important;
+}
+a:hover {
+	color: #7c0c45 !important;
+    text-decoration: none !important;
+}
+.container {
+    width: 65.83333333333333%;
+}
+.menus a {
+    color: #fff !important;
+}
+p:last-child i {
+    margin-left: 5px;
+}
+h2.entry-title {
+    margin: 0px;
+    font-size: 20px;
+    line-height: 28px;
+}
+h1.section-title.title {
+	width: 120%;
+}
+.ADS {
+    width: 145%;
+}
+.recent h1 {
+    font-size: 45px;
+    width: 147%;
+}
+
+a.sb-ttt {
+    font-size: 22px;
+}
+h1.ads-single {
+    width: 147%;
+}
+.views {
+    width: 154%;
+}
+.publish-date {
+    padding-left: 39px;
+    width: 121%;
+}
+hr {
+    border-top: 1px solid #685f5f !important;
+}
+h1.adsss {
+    width: 147%;
+}
+.related {
+    display: block;
+    height: 365px;
+    margin-bottom: 10px;
+}
+.related img {
+    height: 225px;
+    width: 100%;
+    object-fit: cover;
+}
